@@ -8,6 +8,7 @@ attach(datos)
 
 datos.surv<-Surv(y, failed)
 
+summary(datos)
 
 ##### Análisis exploratorio ####
 
